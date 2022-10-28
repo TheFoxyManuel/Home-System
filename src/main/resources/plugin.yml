@@ -1,0 +1,8 @@
+name: HomePlugin
+version: '${project.version}'
+main: de.foxymanuel.homeplugin.HomePlugin
+authors: [ TheFoxyManuel ]
+description: This is just another home plugin for Minecraft
+commands:
+  home:
+  sethome:
